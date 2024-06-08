@@ -1,0 +1,20 @@
+# Notes
+*.txt
+
+# Vim Swap Files
+*.swp
+
+# Build files
+go.mod
+go.sum
+
+# IDE/Editor files
+*.vscode/
+.idea/
+
+# Compiled Binaries
+*.exe
+*.so
+
+# Environment files
+.env
