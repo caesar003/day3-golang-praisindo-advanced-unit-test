@@ -8,8 +8,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/caesar003/day3-unit-test/entity"
-	"github.com/caesar003/day3-unit-test/handler"
+	"github.com/caesar003/day3-golang-praisindo-advanced-unit-test/entity"
+	"github.com/caesar003/day3-golang-praisindo-advanced-unit-test/handler"
 	"github.com/gin-gonic/gin"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"

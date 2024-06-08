@@ -5,8 +5,8 @@ import (
 	"net/http/httptest"
 	"testing"
 
-	"github.com/caesar003/day3-unit-test/handler"
-	"github.com/caesar003/day3-unit-test/middleware"
+	"github.com/caesar003/day3-golang-praisindo-advanced-unit-test/handler"
+	"github.com/caesar003/day3-golang-praisindo-advanced-unit-test/middleware"
 	"github.com/gin-gonic/gin"
 	"github.com/stretchr/testify/assert"
 )

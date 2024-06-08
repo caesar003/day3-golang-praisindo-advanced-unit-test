@@ -5,7 +5,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/caesar003/day3-unit-test/entity"
+	"github.com/caesar003/day3-golang-praisindo-advanced-unit-test/entity"
 	"github.com/gin-gonic/gin"
 )
 
