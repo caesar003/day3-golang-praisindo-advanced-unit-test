@@ -5,8 +5,8 @@
 *.swp
 
 # Build files
-go.mod
-go.sum
+# go.mod
+# go.sum
 
 # IDE/Editor files
 *.vscode/
